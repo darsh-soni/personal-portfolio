@@ -1,7 +1,7 @@
 {
   "name": "portfolio",
   "version": "0.1.0",
-  "homepage": "https://github.com/darshsoni28/portfolio.git",
+  "homepage": ".",
   "private": true,
   "dependencies": {
     "@chakra-ui/react": "^2.2.1",
