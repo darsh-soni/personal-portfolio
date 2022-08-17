@@ -1,10 +1,23 @@
 # Getting Started with Create React App
+#Crypto SS
+![crypto](https://user-images.githubusercontent.com/66396310/185103825-24986066-a04c-4b63-b0ac-71c254495bdb.PNG)
+
+!News SS
+![newsapp](https://user-images.githubusercontent.com/66396310/185103872-dcb158be-7890-4b1a-8a27-e35ec91eb632.PNG)
+
+Image SS
+![imagegallery](https://user-images.githubusercontent.com/66396310/185103913-7829e3e1-c7bf-409e-9942-12d34359a692.PNG)
+
+Meme SS
+![memeapp](https://user-images.githubusercontent.com/66396310/185103935-1961f882-9306-4a6b-ab4f-d2bf452e20a3.PNG)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
 In the project directory, you can run:
+
 
 ### `npm start`
 
